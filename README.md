@@ -14,7 +14,7 @@ I am a self taught web developer based in Prague with a small amount of work exp
 
 - 🔭 I’m looking for a junior front-end/back-end position
 - :student: I am currently learning Vue.js
-- :memo: Checkout my [Resume/CV](http://example.com/) 
+- :memo: Checkout my [Resume/CV](https://resume.io/r/pmkfHAQkv) 
 - :computer: I enjoy solving coding problems on [Code Wars](https://www.codewars.com/users/PaulRoss1)
 
 
