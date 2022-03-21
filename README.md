@@ -28,7 +28,7 @@ I am a self taught web developer based in Prague with a small amount of work exp
 
 ### Recent projects
 
-<br /> [<img align="left" height="300px" alt="Prague Music Events" src="https://i.postimg.cc/51qPpLyf/pme.jpg"/>](#!)
+<br /> [<img align="left" width="58%" alt="Prague Music Events" src="https://i.postimg.cc/51qPpLyf/pme.jpg"/>](#!)
 **Prague Music Events** 
 <br>
 <br>
@@ -46,7 +46,7 @@ Languages & Technologies: `Python 3`, `Django`, `MySQL`, `HTML`, `CSS`, `JavaScr
 <br>
 
  
-<br /> [<img align="left" height="300px" alt="Virtuloc" src="https://serving.photos.photobox.com/2632958072cb88670bd0ac276c3317ab20e46dcdc179797481e3ce91ef76062cbc004a67.jpg"/>](#!)
+<br /> [<img align="left" width="58%" alt="Virtuloc" src="https://serving.photos.photobox.com/2632958072cb88670bd0ac276c3317ab20e46dcdc179797481e3ce91ef76062cbc004a67.jpg"/>](#!)
 **Virtuloc** 
 <br>
 <br>
