@@ -1,6 +1,6 @@
 ## Hi I'm Paul <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a self taught web developer based in Prague with a small amount of work experiece. I'm currently looking for an oportunity to put what I have learned to use. I am interested in both the back-end and front-end side of web development and am passionate about constantly learning new technologies and expanding my knowlege.
+I am a self taught web developer based in Prague with a small amount of work experience. I'm currently looking for an oportunity to put what I have learned to use. I am interested in both the back-end and front-end side of web development and am passionate about constantly learning new technologies and expanding my knowledge.
 
 
 
