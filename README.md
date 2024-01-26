@@ -11,7 +11,7 @@ I am a self taught web developer based in London with two years of commercial ex
 
 - 🔭 I’m looking for a front-end position
 - 🎓 I am currently learning React.js
-- :memo: Checkout my [Resume/CV](https://resume.io/r/pmkfHAQkv)
+- :memo: Checkout my [Resume/CV](https://magenta-nissy-90.tiiny.site)
 
 ### Top Technologies
 
