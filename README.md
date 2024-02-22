@@ -71,20 +71,3 @@ Languages & Technologies: `HTML`, `SCSS`, `Javascript`, `React`
 <br>
 <br>
 [**Live Version**](https://minesweeper-levels.netlify.app/) &nbsp; • &nbsp; [**Github Repo**](https://github.com/PaulRoss1/Minesweeper-Levels)
-
-<br>
-<br>
-<br>
-<br>
-
-<br /> [<img align="left" width="58%" alt="Minesweeper Levels" src="https://i.postimg.cc/Prg5ynf3/banners.png"/>](#!)
-**HTML5 Banners**
-<br>
-<br>
-HTML5 banner ads created using GSAP (GreenSock Animation Platform).
-<br>
-<br>
-Languages & Technologies: `HTML`, `SCSS`, `Javascript`, `GSAP`
-<br>
-<br>
-[**Live Version**](https://html5-banners.netlify.app/) &nbsp; • &nbsp; [**Github Repo**](https://github.com/PaulRoss1/HTML5-Banners)
