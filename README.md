@@ -4,14 +4,14 @@ I am a self taught web developer based in London with two years of commercial ex
 
 :mailbox: Reach out to me!
 
-[![Mail Badge](https://img.shields.io/badge/-paulross.v@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:paulross.v@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-paul.ni.ross@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:paul.ni.ross@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Paul%20Ross-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-ross1/)
 
 <!-- TODO: Add last video link --->
 
 - 🔭 I’m looking for a front-end position
 - 🎓 I am currently learning React.js
-- :memo: Checkout my [Resume/CV](https://magenta-nissy-90.tiiny.site)
+- :memo: Checkout my [Resume/CV](https://paul-ross-cv.tiiny.site/)
 
 ### Top Technologies
 
