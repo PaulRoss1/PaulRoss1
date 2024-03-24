@@ -27,7 +27,7 @@ I am a self taught web developer based in London with two years of commercial ex
 
 ### Recent projects
 
-<br /> [<img align="left" width="58%" alt="Prague Music Events" src="https://i.postimg.cc/mD1YN2BJ/pme.png"/>](#!)
+<br /> [<img align="left" width="58%" alt="Prague Music Events" src="https://i.postimg.cc/L41WfcMR/pme.png"/>](#!)
 **Prague Music Events**
 <br>
 <br>
@@ -43,7 +43,7 @@ Languages & Technologies: `Python 3`, `Django`, `MySQL`, `HTML`, `SCSS`, `Typesc
 <br>
 <br>
 
-<br /> [<img align="left" width="58%" alt="Series Explorer" src="https://i.postimg.cc/L6HCtLg1/series-explorer.png"/>](#!)
+<br /> [<img align="left" width="58%" alt="Series Explorer" src="https://i.postimg.cc/MpNRyFw2/se.png"/>](#!)
 **Series Explorer**
 <br>
 <br>
